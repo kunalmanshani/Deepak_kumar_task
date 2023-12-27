@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53206696289",
+    "project_id": "task-authentication-db",
+    "storage_bucket": "task-authentication-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53206696289:android:ae70ee599db69d93890520",
+        "android_client_info": {
+          "package_name": "com.example.deepak_kumar_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZyBtzRHGtv438q905h6p_oSYbJJr8z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
